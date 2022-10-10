@@ -38,9 +38,14 @@
 .contact-margin-top {
   margin-top: 4rem;
 }
-
+.contact-image-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
 .contact-image-div > img {
-  max-width: 100%;
+  width: 50%;
   height: auto;
   margin-left: 1.5rem;
   margin-top: -4rem;
