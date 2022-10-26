@@ -440,7 +440,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "aniket.png",
     description:
-      "Looking for some help? or Need to revamp your website ? or Need someone to develop a website for you or for your business? Shoot me an email, as simple as that!",
+      "Looking for some help? Need to revamp your website ? Need someone to develop a website for you or for your business? Shoot me an email, as simple as that!",
   },
   blogSection: {
     title: "Blogs",
