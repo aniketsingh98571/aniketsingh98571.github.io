@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "login": "WebOasis-Labs",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/75690802?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "education",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6667880?v=4",
+      "__typename": "Organization"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Aniket's Portfolio",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/icons/favicon1.ico",
+      "sizes": "36x36",
+      "type": "ico",
+      "density": "0.75"
+    }
+  ],
+  "short_name": "Aniket's Portfolio",
+  "start_url": ".",
+  "theme_color": "#000000"
+}
