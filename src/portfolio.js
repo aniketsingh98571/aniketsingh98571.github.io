@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A self-taught software developer who loves building products that impact people's life. A developer keen to learn new tools and technologies and loves mentoring folks in tech.",
   resumeLink:
-    "https://drive.google.com/file/d/1db0Mqy1Za4xc3jZf86s_fJTikvpjLmIr/view?usp=sharing",
+    "https://drive.google.com/file/d/10s0UN1l4oC3PoqB9u9x6Zov7bYcKtx60/view?usp=drive_link",
   portfolio_repository: "https://github.com/aniketsingh98571/",
   githubProfile: "https://github.com/aniketsingh98571",
 };
@@ -323,7 +323,8 @@ const experience = {
           duration: "July 2022 - PRESENT",
           location: "Remote",
           description:
-            "(1) Working on frontend of a NFT Marketplace and Thailand-based construction and home services platform. (2) Integrating third party API's into the platforms. (3) Working with web3.js library to integrate smart contracts. (4) Collaborating with backend devs and designers.",
+            "(1) Architected and Developed frontend of NFT Gallery, Custom Contract builder platform, and Open AI custom model builder platform. (2) Contributed to the German-based fan-fan ticket booking platform, Thailand-based home renovation and construction platform, in-house bug reporting tool, and Max Cap NFT Minting platform as a front-end developer. (3) Developed some custom components in React like CustomSelect, Tags, Progress Bar, Full-Screen Image Viewer, etc. (4) Designed NoSql DB Schema for the NFT Gallery platform. (5) Developed APIs for the NFT Gallery Platform using nodejs. (6) Hosting NFT gallery platform on AWS Lambda using serverless framework. (7) Used AWS Cloud formation for image optimization and CDN.",
+
           color: "#0879bf",
         },
       ],
