@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A self-taught software developer who loves building products that impact people's life. A developer keen to learn new tools and technologies and loves mentoring folks in tech.",
   resumeLink:
-    "https://drive.google.com/file/d/10s0UN1l4oC3PoqB9u9x6Zov7bYcKtx60/view?usp=drive_link",
+    "https://drive.google.com/file/d/12pX-ToZZHrPeIk79tn47ek0VRFNbGnmR/view?usp=sharing",
   portfolio_repository: "https://github.com/aniketsingh98571/",
   githubProfile: "https://github.com/aniketsingh98571",
 };
