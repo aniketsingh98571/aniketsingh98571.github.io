@@ -257,6 +257,15 @@ const certifications = {
       color_code: "#FFF",
     },
     {
+      title: "The Complete JavaScript Course 2023: From Zero to Expert!",
+      subtitle: "- Jonas Schmedtmann",
+      logo_path: "udemy.png",
+      certificate_link:
+        "https://www.udemy.com/certificate/UC-0ef67a58-46f0-4b22-8f3e-0246158ed5ea/",
+      alt_name: "Udemy",
+      color_code: "#FFF",
+    },
+    {
       title: "Google Digital Marketing",
       subtitle: "- Google",
       logo_path: "google_logo.png",
